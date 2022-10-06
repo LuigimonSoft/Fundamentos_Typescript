@@ -1,0 +1,23 @@
+{
+  "name": "fundamentos_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigimonSoft/Fundamentos_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigimonSoft/Fundamentos_Typescript/issues"
+  },
+  "homepage": "https://github.com/LuigimonSoft/Fundamentos_Typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
